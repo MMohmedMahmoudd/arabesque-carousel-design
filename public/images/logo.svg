@@ -1,0 +1,5 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" width="200" height="60">
+  <path d="M20 10 L40 10 L50 30 L40 50 L20 50 L10 30 Z" fill="#7b1fa2" />
+  <text x="65" y="35" fill="#7b1fa2" font-size="24" font-weight="bold" font-family="Arial">تفاعيل</text>
+</svg>
